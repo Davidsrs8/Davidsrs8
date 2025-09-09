@@ -1,4 +1,4 @@
-Hola, soy David, y me gusta interesa modificar y mejorar software ya existente.
+Hola, soy David, y me interesa modificar y mejorar software ya existente.
 
 Lenguajes y tecnologías que manejo (o que tuve que aprender en contra de mi voluntad):
 
