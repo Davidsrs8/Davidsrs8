@@ -8,5 +8,5 @@ Lenguajes y tecnologías que manejo (o que tuve que aprender en contra de mi vol
 
 Mis estadísticas de GitHub (no hay mucho, recién empecé a usarlo):
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Davidsrs&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
